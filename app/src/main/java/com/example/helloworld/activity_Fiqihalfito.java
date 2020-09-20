@@ -10,5 +10,7 @@ public class activity_Fiqihalfito extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fiqihalfito);
+
+        //ODADING MANG OLEH RASANYA
     }
 }
